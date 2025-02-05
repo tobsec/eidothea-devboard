@@ -2,7 +2,7 @@
 
 The **Eidothea DevBoard** is designed for testing and development, compatible with the [Eidothea Board](https://github.com/tobsec/eidothea). It can be used both on a test bench and within an engine setup.
 
-![Eidothea DevBoard](https://github.com/tobsec/eidothea-devboard/blob/master/doc/eidothea_devBoard.png?raw=true)
+![Eidothea DevBoard](https://github.com/tobsec/eidothea-devboard/blob/main/doc/eidothea_devBoard.png?raw=true)
 
 ## Hardware Features
 
