@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D3, D4, D8",0603,3,GREEN,C72043
+"J1, J10, J11, J12, J13, J14, J24, J25, J28, J29, J32, J34, J6, J7, J8, J9",PinHeader_1x04_P2.54mm_Vertical,16,Conn_01x01,N/A
+"J16, J18, J27, J31, J36",TerminalBlock_RND_205-00011_1x12_P5.00mm_Horizontal,5,Screw_Terminal_01x04,
+"J4, J5",DSUB-9_Female_Vertical_P2.77x2.84mm_MountingHoles,2,DE9_Plug_MountingHoles,
+JP1,SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm,1,Jumper_2_Bridged,
+"JP10, JP11, JP13, JP14, JP15, JP16, JP17, JP18, JP19, JP2, JP20, JP21, JP22, JP23, JP24, JP25, JP26, JP27, JP28, JP29, JP3, JP30, JP31, JP32, JP33, JP35, JP36, JP37, JP38, JP39, JP4, JP40, JP41, JP42, JP43, JP44, JP45, JP46, JP47, JP48, JP49, JP5, JP50, JP52, JP53, JP54, JP55, JP56, JP57, JP6, JP7, JP8, JP9",PinHeader_1x02_P2.54mm_Vertical,53,Jumper_2_Bridged,
+K1,Relay_SPDT_SANYOU_SRD_Series_Form_C,1,SANYOU_SRD_Form_C,
+"R3, R5",0805,2,2k7,C138017
+"R4, R7",0805,2,R_Small,
+R6,0805,1,1k,C11702
+"RV1, RV10, RV11, RV2, RV3, RV4, RV5, RV6, RV7, RV8, RV9",Potentiometer_Alps_RK09K_Single_Vertical,11,R_Potentiometer_Small,
+SW1,SW_Toggle_Blue_wSlots,1,SW_SPDT,
